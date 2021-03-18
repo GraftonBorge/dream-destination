@@ -1,0 +1,14 @@
+h1{font-size: 50px;
+color: darkblue;
+background: dodgerblue;
+text-align: center;
+padding: 5px;
+}
+p{text-align: center;}
+div.jumbotron{background-color: lightskyblue;}
+img{
+display: flex;
+align-items: center;
+max-width:100%;
+height:auto;
+border-radius: 10px}
